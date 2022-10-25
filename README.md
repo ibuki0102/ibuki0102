@@ -1,7 +1,7 @@
 ### Hi there 👋  
 🌱 I’m currently learning in AC camp, and trying my best to become front-end developer!
 
-📫 How to reach me: [Plurk](https://www.plurk.com/bigfrog0102) / [Pixiv](https://www.pixiv.net/users/12573474)
+📫 How to reach me: [Plurk](https://www.plurk.com/bigfrog0102) / [Pixiv](https://www.pixiv.net/users/12573474) / [Medium](https://medium.com/@bigfrog0102)
 
 💬 Ask me about **anything** lol
 
